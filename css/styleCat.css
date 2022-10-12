@@ -1,0 +1,20 @@
+.block{
+    background: rgb(255, 255, 255);
+    width: 100%;
+    height: auto;
+    padding: 30px 20px;
+    margin: auto;
+    margin-top: -10px;
+    display:flex;
+}
+
+.block div{
+    width: 30%;
+    height: 100%;
+    margin: auto;
+    padding: auto;
+}
+
+.block div img{
+    width: 100%;
+}
